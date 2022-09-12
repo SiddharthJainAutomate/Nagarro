@@ -62,7 +62,7 @@ public class TestCase1 {
 		driver.get(GlobalVariable.URL);
 		workPage work =new workPage(driver);
 		work.navigateCarrerPage();
-		test.log(Status.PASS, "Navigated and landed on 'Career' page and  successfully");
+		test.log(Status.PASS, "Landed and navigated on 'Career' page and  successfully");
 		work.VerifyDestinationURL();
 		test.log(Status.PASS, "URL of Contact US page verified successfully");
 		work.EnterData();
