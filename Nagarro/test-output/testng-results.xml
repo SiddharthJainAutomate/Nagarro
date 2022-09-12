@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-11T15:35:20 IST" name="Suite" finished-at="2022-09-11T15:35:37 IST" duration-ms="17094">
+    <groups>
+    </groups>
+    <test started-at="2022-09-11T15:35:20 IST" name="TestFirefox" finished-at="2022-09-11T15:35:37 IST" duration-ms="16306">
+      <class name="com.nagarro.Testcases.crossBrowser">
+        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:com.nagarro.Testcases.crossBrowser@957e06]" started-at="2022-09-11T15:35:20 IST" name="setUpTest" finished-at="2022-09-11T15:35:37 IST" duration-ms="16282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+      </class> <!-- com.nagarro.Testcases.crossBrowser -->
+    </test> <!-- TestFirefox -->
+    <test started-at="2022-09-11T15:35:20 IST" name="TestChrome" finished-at="2022-09-11T15:35:37 IST" duration-ms="17094">
+      <class name="com.nagarro.Testcases.crossBrowser">
+        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:com.nagarro.Testcases.crossBrowser@47987356]" started-at="2022-09-11T15:35:20 IST" name="setUpTest" finished-at="2022-09-11T15:35:37 IST" duration-ms="17085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+      </class> <!-- com.nagarro.Testcases.crossBrowser -->
+    </test> <!-- TestChrome -->
+  </suite> <!-- Suite -->
+</testng-results>
