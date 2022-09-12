@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-08T15:46:35 IST" name="Suite" finished-at="2022-09-08T15:46:50 IST" duration-ms="14828">
+  <suite started-at="2022-09-12T14:53:06 IST" name="Suite" finished-at="2022-09-12T14:53:28 IST" duration-ms="21824">
     <groups>
     </groups>
-    <test started-at="2022-09-08T15:46:35 IST" name="TestChrome" finished-at="2022-09-08T15:46:50 IST" duration-ms="14828">
-      <class name="com.AngelOne.Testcases.TestCase1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.AngelOne.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-08T15:46:35 IST" name="setup" finished-at="2022-09-08T15:46:35 IST" duration-ms="233" status="PASS">
+    <test started-at="2022-09-12T14:53:06 IST" name="TestChrome" finished-at="2022-09-12T14:53:28 IST" duration-ms="21824">
+      <class name="com.nagarro.Testcases.TestCase1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nagarro.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-12T14:53:06 IST" name="setup" finished-at="2022-09-12T14:53:06 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:com.AngelOne.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-08T15:46:35 IST" name="setUpTest" finished-at="2022-09-08T15:46:42 IST" duration-ms="7139" status="PASS">
+        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:com.nagarro.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-12T14:53:06 IST" name="setUpTest" finished-at="2022-09-12T14:53:11 IST" duration-ms="5063" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,19 +22,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="test1()[pri:0, instance:com.AngelOne.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-08T15:46:42 IST" name="test1" finished-at="2022-09-08T15:46:50 IST" duration-ms="7599" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.nagarro.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-12T14:53:11 IST" name="test1" finished-at="2022-09-12T14:53:28 IST" duration-ms="16728" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.AngelOne.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-08T15:46:50 IST" name="tearDownTest" finished-at="2022-09-08T15:46:50 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.nagarro.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-12T14:53:28 IST" name="tearDownTest" finished-at="2022-09-12T14:53:28 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AngelOne.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-08T15:46:50 IST" name="tearDown" finished-at="2022-09-08T15:46:50 IST" duration-ms="684" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagarro.Testcases.TestCase1@4b8ee4de]" started-at="2022-09-12T14:53:28 IST" name="tearDown" finished-at="2022-09-12T14:53:28 IST" duration-ms="407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.AngelOne.Testcases.TestCase1 -->
+      </class> <!-- com.nagarro.Testcases.TestCase1 -->
     </test> <!-- TestChrome -->
   </suite> <!-- Suite -->
 </testng-results>
